@@ -123,10 +123,10 @@ const questions = [
      {
         question: "The following are characteristics of non-luminous flame Except?",
         answers: [
-            {text: "Less heat", correct: true},
+            {text: "Less heat", correct: false},
             {text: "Blue in color", correct: false},
             {text: "Has no soot", correct: false},
-            {text: "Less light", correct: false},
+            {text: "Less light", correct: true},
             
         ]
     },
