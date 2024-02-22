@@ -116,7 +116,7 @@ const questions = [
             {text: "Biology", correct: false},
             {text: "Mathematics", correct: true},
             {text: "Chemistry", correct: false},
-            {text: "Pysics", correct: false},
+            {text: "Physics", correct: false},
             
         ]
     },
